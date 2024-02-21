@@ -1,0 +1,19 @@
+.box {
+
+    height: 100px;
+    width: 100px;
+    margin: 2em;
+    line-height: 100px;
+    border-radius: 1em;
+    border-color: black;
+    border-style: ridge;
+    text-align: center;
+    font-size: x-large
+}
+
+.con {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+
+}
